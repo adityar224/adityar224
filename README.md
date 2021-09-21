@@ -1,5 +1,6 @@
 # Hi there 👋, I'm Aditya
 > Making the world a better place one app at a time
+
 I'm Aditya from India, a cross platform developer. I really enjoy making apps and learning new technologies. I am proficient in C,C++, Java, Python and Dart.
 
 Skills: Competitive Programming/Native Android Development/Flutter/Arduino
