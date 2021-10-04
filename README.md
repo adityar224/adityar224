@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Aditya
+<!-- # Hi there 👋 , I am Aditya -->
+# Hi there <img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" alt="👋" height=40px /> , I am Aditya
 ## Making the world a better place one app at a time
 
 I'm Aditya from India, a cross platform developer. I really enjoy making apps and learning new technologies. I am proficient in C,C++, Java, Python and Dart.
