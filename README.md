@@ -6,7 +6,7 @@ I'm Aditya from India, a cross platform developer. I really enjoy making apps an
 
 Skills: Competitive Programming/Native Android Development/Flutter/Arduino
 
-- 🔭 I’m currently working on my portfolio website 
+- 🔭 I’m currently working on my portfolio website https://adityar224.github.io/Portfolio/
 - 🌱 I’m currently learning dsa 
 - 🤔 I’m looking for help with ui/ux 
 - 💬 Ask me about flutter and native android development 
