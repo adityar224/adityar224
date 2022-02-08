@@ -19,8 +19,7 @@ Skills: Competitive Programming/Native Android Development/Flutter/Arduino
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adityar224&show_icons=true&theme=dark&locale=en)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=adityar224)  
+![Github activity graph](https://activity-graph.herokuapp.com/graph?username=adityar224&theme=xcode)
 
 ![GitHub metrics](https://metrics.lecoq.io/adityar224)  
 
